@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+/src/components/aumento.js
+src/components/calculadora-padrao/secoes/NumeroEOperacoesFundamentais.js
