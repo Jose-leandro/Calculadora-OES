@@ -11,13 +11,14 @@ Reconheço que, atualmente, a Calculadora OES pode parecer simples e conter algu
 
  No vídeo a seguir, você encontrará uma descrição do primeiro contato que terá com o projeto.
 
-  https://github.com/Joseleandro7i/Calculadora-OES/assets/104599482/1938b8b5-d0e0-447e-a115-52cb0cd24d14 
+  https://github.com/Joseleandro7i/Calculadora-OES/assets/104599482/1938b8b5-d0e0-447e-a115-52cb0cd24d14  
 
 ### Estado do projeto
-
-### :construction: Projeto concluído :construction:
  
-<p>Embora o projeto esteja concluído, estou constantemente aperfeiçoando-o, corrigindo problemas, adicionando novas funcionalidades e refinando o design, com o objetivo de torná-lo ainda mais atraente, esteticamente agradável e funcional.</p>
+   :construction: Projeto concluído :construction:
+    
+   <p>Embora o projeto esteja concluído, estou constantemente aperfeiçoando-o, corrigindo problemas, adicionando novas funcionalidades e refinando o design, com o objetivo de  
+   torná-lo ainda mais atraente, esteticamente agradável e funcional.</p>
 
 ### Features
 
@@ -66,12 +67,15 @@ Neste projeto, você encontrará uma sinfonia de tecnologias, sendo cada uma del
 
 ### Autor
 
- <img src="https://github.com/Joseleandro7i/Calculadora-OES/assets/104599482/aa4ab3f4-e5a8-4958-bcdd-3307242019f8" width="100px;" alt=""/>
+ <p>Desenvolvido por José leandro</p>
 
-![Foto - José leandro](https://github.com/Joseleandro7i/Calculadora-OES/assets/104599482/aa4ab3f4-e5a8-4958-bcdd-3307242019f8)
+ <img src="https://github.com/Joseleandro7i/Calculadora-OES/assets/104599482/aa4ab3f4-e5a8-4958-bcdd-3307242019f8" width="130px;"/>
 
+ <p>Caso queira conhcer mais sobre mim e estabelecer uma conexão ou talvez entart em contato, utilizae este canais de comunicação</p>
 
  [![Linkedin Badge](https://img.shields.io/badge/-Leandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/josé-leandro-do-nascimento/) 
+
+[![Gmail Badge](https://img.shields.io/badge/-jose.leandro.nasciment@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jose.leandro.nasciment@gmail.com)](mailto:jose.leandro.nasciment@gmail.com)
 
     Agradeço e tenha um bom dia.
 
