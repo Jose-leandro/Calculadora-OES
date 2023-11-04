@@ -71,7 +71,7 @@ Neste projeto, você encontrará uma sinfonia de tecnologias, sendo cada uma del
 
  <img src="https://github.com/Joseleandro7i/Calculadora-OES/assets/104599482/aa4ab3f4-e5a8-4958-bcdd-3307242019f8" width="130px;"/>
 
- <p>Caso queira conhcer mais sobre mim e estabelecer uma conexão ou talvez entart em contato, utilizae este canais de comunicação</p>
+ <p>Se você quer acompanhar a minha jornada de aprimoramento da Calculadora OES, ou mesmo apenas deseja entrar em contato, por favor, sinta-se à vontade para utilizar esses canais de comunicação. Estou entusiasmado para estabelecer conexões significativas e compartilhar interesses em comum.</p>
 
  [![Linkedin Badge](https://img.shields.io/badge/-Leandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/josé-leandro-do-nascimento/) 
 
